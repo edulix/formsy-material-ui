@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbrookes/formsy-material-ui.git"
+    "url": "git+https://github.com/edulix/formsy-material-ui.git"
   },
   "files": [
     "lib",
@@ -22,10 +22,10 @@
     "keycode": "^2.1.0"
   },
   "peerDependencies": {
-    "formsy-react": "^0.18.0",
-    "material-ui": "^0.15.0",
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "formsy-react": "^0.18.1",
+    "material-ui": "^0.15.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
@@ -77,13 +77,13 @@
     "react-component"
   ],
   "author": {
-    "name": "Matt Brookes",
-    "email": "npm@nospam.33m.co",
-    "url": "https://github.com/mbrookes"
+    "name": "Eduardo Robles",
+    "email": "edulix@nvotes.com",
+    "url": "https://github.com/edulix"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mbrookes/formsy-material-ui/issues"
+    "url": "https://github.com/edulix/formsy-material-ui/issues"
   },
-  "homepage": "https://github.com/mbrookes/formsy-material-ui#readme"
+  "homepage": "https://github.com/edulix/formsy-material-ui#readme"
 }
